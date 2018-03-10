@@ -24,6 +24,13 @@ cluster. Focuses exclusively on scheduling
 ![hadoop](https://user-images.githubusercontent.com/31813625/36898033-1b750800-1de7-11e8-82d2-7ebf9f9bce97.png)
 
 * YARN is extremely compatible with MapReduce.
-
-
-
+* Improved cluster utilization according to the criteria such as:
+  * Capacity
+  * Guarantees
+  * Fairness
+  * different SLAs
+* Supports other workloads other than only MapReduce
+  * Graph processing
+  * Iterative Modeling
+  * Machine learning
+  * Multiple Access Engines
